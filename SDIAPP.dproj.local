@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ABOUT.PAS"/>
+    <File Path="ABOUT.dfm"/>
+    <File Path="SDIMAIN.PAS"/>
+    <File Path="SDIMAIN.dfm"/>
+    <File Path="FIND.pas"/>
+    <File Path="FIND.dfm"/>
+    <File Path="HELP.pas"/>
+    <File Path="HELP.dfm"/>
+    <File Path="EDITOR.pas"/>
+    <File Path="EDITOR.dfm"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.881,F:\Учеба\3 курс 6 сем\Delphi\пробы\EDITOR.dfm=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,F:\Учеба\3 курс 6 сем\Delphi\пробы\FIND.dfm=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,F:\Учеба\3 курс 6 сем\Delphi\пробы\FIND.pas=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,F:\Учеба\3 курс 6 сем\Delphi\пробы\EDITOR.pas=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,F:\Учеба\3 курс 6 сем\Delphi\пробы\HELP.dfm=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,F:\Учеба\3 курс 6 сем\Delphi\пробы\HELP.pas=F:\Учеба\3 курс 6 сем\Delphi\пробы\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
